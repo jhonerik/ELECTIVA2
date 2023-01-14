@@ -11,17 +11,18 @@ function App() {
   /*Estado de retorno constante   */  
 
   /*Activar funciones en js*/
-
- 
     //variacion del uso de funciones jsx*/
    
 
   return (
     
-      <div>
-
+      <div className="container mx-auto mt-20"> 
+      
         <header/>
-
+        <div className="mt -12 flex">
+        <formulario /<  
+        <Listado
+        </div>
 
       </div>
   
