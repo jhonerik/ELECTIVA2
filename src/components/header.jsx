@@ -1,9 +1,9 @@
-funcion Header ()
-import
-    return(
-        <div> 
+import React from 'react'
 
-        </div>
-    )
-{
+function header() {
+  return (
+    <div>header</div>
+  )
 }
+
+export default header
