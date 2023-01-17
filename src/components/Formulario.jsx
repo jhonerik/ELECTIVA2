@@ -69,4 +69,7 @@ function Formulario() {
   )
 }
 //a que visaje toca correjir xd 
+
+yo creo que ya 
+
 export default Formulario
